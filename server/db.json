@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "New stream",
+      "description": "This a new stream created on 17-Apr-2020",
+      "id": 1
+    },
+    {
+      "title": "New SPO",
+      "description": "New SPO is approved for house coritine",
+      "userId": "101823423452947200016",
+      "id": 2
+    }
+  ]
+}
